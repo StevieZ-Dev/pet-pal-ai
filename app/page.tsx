@@ -20,7 +20,8 @@ import {
   Calendar, 
   ShieldCheck, 
   Smile, 
-  ShoppingBag 
+  ShoppingBag,
+  CheckCircle // <--- Added missing tool here!
 } from 'lucide-react';
 
 // --- MOCK DATA GENERATORS (The "Vet" Brain) ---
